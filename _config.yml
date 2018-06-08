@@ -24,6 +24,7 @@ author:  # change following line to your infomation.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     name: fa-utensils
+    name: fa-bed
     #- name: icon-apache
     #- name: fa-linux
   #skill_icon2:
