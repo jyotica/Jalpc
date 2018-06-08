@@ -11,8 +11,8 @@ img_path: /jyo/static/assets/img/blog  # url should be '/homepage/static/assets/
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  #name: Jyotica # Be used at blog posts' author.
-  first_name: Jyotica # Be used at index page about me section.
+  name: Jyotica  # Be used at blog posts' author.
+  first_name: Jyotica  # Be used at index page about me section.
   last_name: Singh  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: jyotica  # Leave blank if you don't have now
