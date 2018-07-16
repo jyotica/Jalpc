@@ -7,23 +7,23 @@
     detail: Learned basics of ethical hacking, security and penetration testing to get an insight into the field of data securities.
     #i18n: company_a_desc
   date:
-    detail: May 2017
+    detail: May - June, 2017
     #i18n: company_a_date
   job:
     detail: Intern
     #i18n: company_a_job
   icon: fa-plus-square
 
-#- name:
- #   detail: Company B
+- name:
+    detail: MakersLoft Pvt Ltd
   #  i18n: company_b
-  #desc:
-   # detail: I worked at Company B ...
+  desc:
+    detail: Trained students in Python with little to no knowledge of coding
     #i18n: company_b_desc
-  #date:
-   # detail: Jun. 2015
+  date:
+    detail: June - July, 2018
     #i18n: company_b_date
-  #job:
-   # detail: Full Stack Developer
+  job:
+    detail: Python Trainer (Intern)
     #i18n: company_b_job
-  #icon: fa-plus-square
+  icon: fa-plus-square
