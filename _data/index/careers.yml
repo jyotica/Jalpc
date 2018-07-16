@@ -1,18 +1,5 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: ISOEH - Indian School of Ethical Hacking
-    #i18n: company_a
-  desc:
-    detail: Learned basics of ethical hacking, security and penetration testing to get an insight into the field of data securities.
-    #i18n: company_a_desc
-  date:
-    detail: May - June, 2017
-    #i18n: company_a_date
-  job:
-    detail: Intern
-    #i18n: company_a_job
-  icon: fa-plus-square
 
 - name:
     detail: MakersLoft Pvt Ltd
@@ -27,3 +14,18 @@
     detail: Python Trainer (Intern)
     #i18n: company_b_job
   icon: fa-plus-square
+  
+- name:
+    detail: ISOEH - Indian School of Ethical Hacking
+    #i18n: company_a
+  desc:
+    detail: Learned basics of ethical hacking, security and penetration testing to get an insight into the field of data securities.
+    #i18n: company_a_desc
+  date:
+    detail: May - June, 2017
+    #i18n: company_a_date
+  job:
+    detail: Intern
+    #i18n: company_a_job
+  icon: fa-plus-square
+
