@@ -2,7 +2,7 @@
 
 label: Ability
 id : cs
-aspects: Python, Java, C, HTML, CSS, Django, Photoshop, Illustrator, Latex 
+aspects: Python, SQL, Java, C, HTML, CSS, Django, Photoshop, Illustrator, Latex 
 #Github, HTML5, ReactJS, Machine Learing, Python, Sleeping
 #percentage: 100, 35, 65, 80, 70, 90, 50
-percentage: 90, 60, 40, 80, 80, 50, 70, 50, 90
+percentage: 90, 80, 60, 40, 80, 80, 50, 70, 50, 90
